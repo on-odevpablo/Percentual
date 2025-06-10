@@ -1,4 +1,4 @@
-# README - Relatório de Produtividade de Filiais (Inadimplência)
+# Relatório de Produtividade de Filiais (Inadimplência)
 
 ## Visão Geral
 Este notebook automatiza a análise de produtividade no tratamento de casos de inadimplência nas filiais, enviando relatórios via Microsoft Teams para os gestores regionais. O processo identifica filiais com baixo desempenho (menos de 15% de casos finalizados) e notifica os responsáveis.
